@@ -1,0 +1,19 @@
+# NuGet packages
+packages/
+
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Logs
+*.log
